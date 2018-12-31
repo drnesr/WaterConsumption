@@ -5,7 +5,7 @@ cd /d %~dp0
 
 REM # If you need special Anaconda environment
 REM # Uncomment the following line
-REM # call activate py3
+call activate base
 
 REM # It is important to add the 'call' 
 call jupyter notebook
