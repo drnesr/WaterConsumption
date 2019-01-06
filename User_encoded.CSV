@@ -1,0 +1,8 @@
+User_id,User_text,u_industry,u_domestic,u_social,u_commerce,u_low_density,u_mid_density,u_high_density,u_residential
+0,Commercial High Consumption,0,0,0,1,0,0,1,0
+1,Commercial Normal Consumption,0,0,0,1,0,1,0,0
+2,Industrial,1,0,0,0,0,0,0,0
+3,Low Domestic,0,1,0,0,1,0,0,0
+4,Medium Domestic,0,1,0,0,0,1,0,0
+5,Residential Domestic,0,1,0,0,0,0,0,1
+6,Social Services,0,0,1,0,0,0,0,0

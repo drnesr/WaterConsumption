@@ -1,0 +1,15 @@
+Usage_id,Usage_text
+0,Downtown
+1,Government Reserve
+2,High Risk Industry
+3,Housing High density
+4,Housing Low density
+5,Housing Medium density
+6,Infrastructure
+7,Low Risk Industry
+8,Medium Risk Industry
+9,"Mixed (Commerce, Housing, Industry)"
+10,Parks
+11,Reserve Housing Conditioned
+12,Reserve Industry Conditioned
+13,Vegetation area
